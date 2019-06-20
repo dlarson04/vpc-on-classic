@@ -49,7 +49,7 @@ Accounts have the following quotas:
 
 |   Resource     | Maximum Number |
 | ------- | :------: |
-| Virtual Server Instances (VSIs) | 100 per account by default |
+| Virtual Server Instances (VSIs) | 100 per region by default |
 | vNICs per VSI | 5 per VSI |
 | Floating IP addresses | 1 per VSI |
 | SSH Keys | 100 per account |
